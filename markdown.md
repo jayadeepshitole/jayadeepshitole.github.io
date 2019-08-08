@@ -1,5 +1,4 @@
-# Just checking
+# Markdown
 
-## Date
 * bullet 1
 * bullet 2
